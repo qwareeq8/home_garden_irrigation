@@ -5,7 +5,7 @@ This repository contains all the project files for the fully automated home gard
 ## Repository Structure
 
 - **Source Code:** Contains the assembly code for the irrigation system.
-- **Documents:** Contains the project handout, reports, schematics, and additional documentation.
+- **Documents:** Contains the project report.
 
 ```
 home_garden_irrigation/
@@ -37,7 +37,7 @@ The project code is decomposed into several subroutines:
 - **User Interface:** Manages LCD output and processes push-button inputs for mode and zone changes.
 - **Interrupt Handling:** Includes routines for de-bouncing and managing periodic events like the frost alert LED flashing.
 
-For further details, please refer to the project handout and report in the **docs/** folder.
+For further details, please refer to the project handout in the **docs/** folder.
 
 ## How to Use
 
