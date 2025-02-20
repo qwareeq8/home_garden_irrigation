@@ -1,4 +1,3 @@
-```markdown
 # A Simple Automated Home Garden Irrigation System
 
 This repository contains all the project files for the fully automated home garden irrigation system using the PIC16F877A microcontroller. The project was developed during Fall Semester 2019/2020 by Yusuf Qwareeq and Osama Abuhamdan at The University of Jordan. It uses an environment-aware approach with sensor inputs (simulated by potentiometers), rule-based decision algorithms, and user control via push-buttons. The system manages two garden zones and controls two pumps (represented by LEDs), displays sensor readings on an LCD, and even indicates frost conditions with a flashing red LED.
